@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiurl:'https://api.covid19api.com'
 };
